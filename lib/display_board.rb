@@ -7,4 +7,4 @@ def display_board(tiles)
   puts "   |   |   "
 end
 
-display_board(tiles)
+display_board(board)
