@@ -1,4 +1,4 @@
-board = ["x","x","x"," "," "," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
 def display_board(tiles)
   puts " #{tiles[0]} | #{tiles[1]} | #{tiles[2]}  "
   puts "-----------"
