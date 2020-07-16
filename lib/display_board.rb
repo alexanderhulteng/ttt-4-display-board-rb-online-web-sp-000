@@ -1,6 +1,6 @@
 board = ["x"," "," "," "," "," "," "," "," "]
 def display_board(tiles)
-  puts " #{tiles[0]}  |   |   "
+  puts " #{tiles[0]} |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
