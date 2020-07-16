@@ -1,5 +1,5 @@
 board = [" "," "," "," "," "," "," "," "," "]
-def display_board(tiles=" ")
+def display_board(tiles)
   puts " #{tiles[0]} | #{tiles[1]} | #{tiles[2]} "
   puts "-----------"
   puts " #{tiles[3]} | #{tiles[4]} | #{tiles[5]} "
